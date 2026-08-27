@@ -1,6 +1,6 @@
 <div>
 
-# Rafael Gutierrez
+## Rafael Gutierrez
 
 ```
 $ whoami
@@ -25,7 +25,7 @@ Just getting started in cybersecurity, with basic hands-on knowledge of SOC work
 - Threat intelligence and OSINT
 - Security automation
 
-> [!]
+> [!STAR]
 > I document what I build, investigate, and learn through practical projects.
 
 ---
