@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Rafael Gutierrez
 
@@ -25,11 +25,11 @@ Just getting started in cybersecurity, with basic hands-on knowledge of SOC work
 - Threat intelligence and OSINT
 - Security automation
 
-> [!TIP]
+> [!]
 > I document what I build, investigate, and learn through practical projects.
 
 ---
 
 <div align="center">
-<sub>still learning · still building</sub>
+<sub> G R I T</sub>
 </div>
