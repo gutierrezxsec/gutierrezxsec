@@ -12,11 +12,11 @@ $ whoami
 
 ---
 
-**about me**
+**About me**
 
 Just getting started in cybersecurity, with basic hands-on knowledge of SOC workflows — log analysis, alert triage, that kind of thing. I'm building on that and strengthening my networking fundamentals through small homelabs.
 
-**current focus**
+**Current focus**
 
 - Network analysis and troubleshooting
 - Log analysis and alert triage
@@ -25,6 +25,7 @@ Just getting started in cybersecurity, with basic hands-on knowledge of SOC work
 - Threat intelligence and OSINT
 - Security automation
 
+> [!TIP]
 > I document what I build, investigate, and learn through practical projects.
 
 ---
