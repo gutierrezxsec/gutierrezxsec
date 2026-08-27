@@ -2,18 +2,33 @@
 
 # Rafael Gutierrez
 
-<sub>Currently job hunting for IT Support roles — aiming for SOC Analyst long-term</sub>
+```
+$ whoami
+> currently seeking entry-level IT Support opportunities
+> building toward a SOC Analyst career
+```
 
 </div>
 
-<br>
+---
 
-## About me
+**about me**
 
 Just getting started in cybersecurity, with basic hands-on knowledge of SOC workflows — log analysis, alert triage, that kind of thing. I'm building on that and strengthening my networking fundamentals through small homelabs.
 
-<br>
+**current focus**
+
+- Network analysis and troubleshooting
+- Log analysis and alert triage
+- Phishing and IOC investigation
+- SIEM and security monitoring
+- Threat intelligence and OSINT
+- Security automation
+
+> I document what I build, investigate, and learn through practical projects.
+
+---
 
 <div align="center">
-<sub>·  ·  ·</sub>
+<sub>still learning · still building</sub>
 </div>
