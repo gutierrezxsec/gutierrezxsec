@@ -1,12 +1,11 @@
 <div>
 
-**Rafael Gutierrez**
+## Rafael Gutierrez
 
-```
-$ whoami
-$\color{green}{\textbf{G\ R\ I\ T}}$
-> currently seeking entry-level IT Support opportunities
-> building toward a SOC Analyst career
+```diff
++ $ whoami
++ > currently seeking entry-level IT Support opportunities
++ > building toward a SOC Analyst career
 ```
 
 </div>
@@ -26,11 +25,13 @@ Just getting started in cybersecurity, with basic hands-on knowledge of SOC work
 - Threat intelligence and OSINT
 - Security automation
 
-> [!NOTE]
+> [!IMPORTANT]
 > I document what I build, investigate, and learn through practical projects.
 
 ---
 
 <div align="center">
-<sub> G R I T</sub>
+
+![GRIT](https://img.shields.io/badge/G_R_I_T-brightgreen?style=flat-square)
+
 </div>
