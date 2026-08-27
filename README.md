@@ -1,9 +1,10 @@
 <div>
 
-## Rafael Gutierrez
+**Rafael Gutierrez**
 
 ```
 $ whoami
+$\color{green}{\textbf{G\ R\ I\ T}}$
 > currently seeking entry-level IT Support opportunities
 > building toward a SOC Analyst career
 ```
@@ -25,7 +26,7 @@ Just getting started in cybersecurity, with basic hands-on knowledge of SOC work
 - Threat intelligence and OSINT
 - Security automation
 
-> [!STAR]
+> [!NOTE]
 > I document what I build, investigate, and learn through practical projects.
 
 ---
