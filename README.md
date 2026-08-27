@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gutierrezxsec/gutierrezxsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rafael Gutierrez
 
-Here are some ideas to get you started:
+<sub>Currently job hunting for IT Support roles — aiming for SOC Analyst long-term</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+## About me
+
+Just getting started in cybersecurity, with basic hands-on knowledge of SOC workflows — log analysis, alert triage, that kind of thing. I'm building on that and strengthening my networking fundamentals through small homelabs.
+
+<br>
+
+<div align="center">
+<sub>·  ·  ·</sub>
+</div>
