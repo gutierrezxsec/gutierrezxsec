@@ -18,12 +18,12 @@ Just getting started in cybersecurity, with basic hands-on knowledge of SOC work
 
 **Current focus**
 
-- Network analysis and troubleshooting
-- Log analysis and alert triage
 - Phishing and IOC investigation
+- Networking
+- Log analysis 
 - SIEM and security monitoring
 - Threat intelligence and OSINT
-- Security automation
+
 
 > [!IMPORTANT]
 > I document what I build, investigate, and learn through practical projects.
