@@ -14,7 +14,7 @@
 
 **About me**
 
-Just getting started in cybersecurity, with basic hands-on knowledge of SOC workflows — log analysis, alert triage, that kind of thing. I'm building on that and strengthening my networking fundamentals through small homelabs.
+Just getting started 
 
 **Current focus**
 
@@ -32,6 +32,5 @@ Just getting started in cybersecurity, with basic hands-on knowledge of SOC work
 
 <div align="center">
 
-![GRIT](https://img.shields.io/badge/G_R_I_T-brightgreen?style=flat-square)
 
 </div>
