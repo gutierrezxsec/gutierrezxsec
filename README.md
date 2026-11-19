@@ -5,7 +5,7 @@
 ```diff
 + $ whoami
 + > currently seeking entry-level IT Support opportunities
-+ > building toward a SOC Analyst career
++ > building toward a Cybersecurity career
 ```
 
 </div>
@@ -18,6 +18,7 @@ Just getting started
 
 **Current focus**
 
+- Troubleshooting
 - Phishing and IOC investigation
 - Networking
 - Log analysis 
